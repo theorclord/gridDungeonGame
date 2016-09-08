@@ -14,10 +14,5 @@ namespace GridBasedTurnFantasyCombat
         {
             Type = type;
         }
-
-        public void MoveAround()
-        {
-            // do stuff about random walking
-        }
     }
 }
